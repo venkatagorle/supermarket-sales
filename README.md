@@ -12,7 +12,7 @@ This project is an ETL (Extract, Transform, Load) pipeline for supermarket sales
 
  📂 Project Structure
 ```
-📁 supermarket-etl-pipeline  
+📁 supermarket-sales  
  ├── 📁 scripts             # Python scripts for ETL  
  │   ├── extract.py         # Downloads data from Kaggle  
  │   ├── transform_load_postgresql.py  # Cleans and loads data into SQLite/PostgreSQL  
